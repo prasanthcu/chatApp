@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1061092393692",
+    "firebase_url": "https://mychat-ededd.firebaseio.com",
+    "project_id": "mychat-ededd",
+    "storage_bucket": "mychat-ededd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061092393692:android:802cf2b0413388b8",
+        "android_client_info": {
+          "package_name": "com.mychat.prasanth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061092393692-ggv745sjblkrsdos030221j98tvfuirv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr746pOfEFk2jmEBOqUO9VE3JkPyQDI8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
